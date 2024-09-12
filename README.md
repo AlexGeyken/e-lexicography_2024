@@ -20,7 +20,8 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 * 14-16 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines neuen DWDS-Wörterbuchartikels: *öffentlicher Bücherschrank* "
 
 
-## Tag 2 (13.9.2024): per Zoom
+## Tag 2 (13.9.2024): 
+* ab 9.55 im Zoom-Raum:  ** https://us02web.zoom.us/j/89703237252?pwd=OWnrUmab9LOEFBmurK5Lmx3EN7MKZ1.1 **
 * 10-11.15 Mikrostruktur: Definitionen im Wörterbuch: a) Oxford (s. Atkins/Rundell); b) DWDS
 * 11.15-13.15 Axel Herold (BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI Lex-0* sowie die DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter XML-Editor)
 * 14-15.30: (mit Gregor Middell - BBAW/ZDL) Technische Aspekte der lexikographische Arbeitsumgebung des DWDS / Vernetzungen von lexikalischen Informationen
@@ -63,9 +64,5 @@ weitere Referatsthemen folgen.
 
 
 
-## Zoom-Raum
-### Tag 2: 
-https://us02web.zoom.us/j/89703237252?pwd=OWnrUmab9LOEFBmurK5Lmx3EN7MKZ1.1
 
-### Tag 4: 
-tba
+
