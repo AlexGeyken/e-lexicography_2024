@@ -12,7 +12,7 @@ Das Blockseminar e-lexicography gibt einen Überblick über die Geschichte der L
 (4) Mit der Veröffentlichung von GPT3 von Open-AI Ende 2022 wird ein weiteres Kapitel für die Lexikographie geöffnet. Seitdem wurden eine Vielzahl weiterer Modelle von Google, Meta, aber auch in Europa von Mistral-AI oder auch Aleph Alpha erzeugt. Mit diesen mächtigen Modellen ist es erstmals möglich, Teile von Wörterbuchartikeln, teilweise sogar gesamte Wörterbuchartikel automatisch durch diese Systeme generieren zu lassen. Ausführliche Evaluierungen stehen noch aus, aber die Veröffentlichungen für die aktuelle EURALEX-Konferenz 2024 zeigt, wie sehr sich das Thema KI mittlerweile in der Lexikographie Einzug gehalten hat: knapp 15% aller Einreichungen behandeln Themen mit Bezug zu GPTs bzw. LLMs.
 
 Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr.
-Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
+Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder in Präsenz oder per Zoom (wird an Tag 3 entschieden)
 
 ## Tag 1 (12.9.2024): 
 * 10-12.30 Einführung: Kurzer geschichtlicher Abriss der Lexikographie seit dem 19. Jh. sowie der e-Lexicography im 21. Jh.
@@ -27,14 +27,14 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 * 15.30-16: Vergabe Referate
 
 ## Tag 3 (19.9.2024):
-* 10-12.30 REFERATE
+* 10-12.30 5 REFERATE
 * 13.15-15.45 Andreas Nolda - BBAW/ZDL: "Daten zur diatopischen Variation im deutschen Wortschatz: Das ZDL-Regionalkorpus"
 
 ## Tag 4 (20.9.2024):
 * 10-11 Von Kollokationen zu Wortprofilen
 * 11-12 REFERATE  
 * 13-14.30 REFERATE
-* 14.30-15.00 Abschlussdiskussion
+* 14.30-15.00 Abschlussdiskussion zu Leichte Sprache und der benoteten Prüfungsleistungen
 
 ## Weiterführende Quellen:
 * The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552. 
