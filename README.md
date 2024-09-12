@@ -15,21 +15,20 @@ Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr.
 Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 
 ## Tag 1 (12.9.2024): 
-* 10-12.30 Einführung (Lexikographie, e-Lexicography, DWDS-I)
-* 13.15-14 Praktische E-Lexikographie (DWDS - II)
-* 14-15.45 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL), DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines neuen DWDS-Wörterbuchartikels: "öffentlicher Bücherschrank"
-* 15.45-16.00 Fragen zu Referaten
+* 10-12.30 Einführung: Kurzer geschichtlicher Abriss der Lexikographie seit dem 19. Jh. sowie der e-Lexicography im 21. Jh.
+* 13-14 Praktische E-Lexikographie: Die DWDS-Plattform - Wörterbuch, Korpus, Statistische Auswertungen)
+* 14-16 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines neuen DWDS-Wörterbuchartikels: *öffentlicher Bücherschrank* "
+
 
 ## Tag 2 (13.9.2024): per Zoom
 * 10-11.15 Mikrostruktur: Definitionen im Wörterbuch: a) Oxford (s. Atkins/Rundell); b) DWDS
-* 11.15-13.15 (gemeinsam mit Axel Herold - BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI Lex-0* sowie die DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter XML-Editor)
+* 11.15-13.15 Axel Herold (BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI Lex-0* sowie die DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter XML-Editor)
 * 14-15.30: (mit Gregor Middell - BBAW/ZDL) Technische Aspekte der lexikographische Arbeitsumgebung des DWDS / Vernetzungen von lexikalischen Informationen
 * 15.30-16: Vergabe Referate
 
 ## Tag 3 (19.9.2024):
 * 10-12.30 REFERATE
-* 13.15-15.45 Andreas Nolda - BBAW/ZDL: "Daten zur diatopischen Variation im deutschen Wortschatz:
-Das ZDL-Regionalkorpus"
+* 13.15-15.45 Andreas Nolda - BBAW/ZDL: "Daten zur diatopischen Variation im deutschen Wortschatz: Das ZDL-Regionalkorpus"
 
 ## Tag 4 (20.9.2024):
 * 10-11 Von Kollokationen zu Wortprofilen
@@ -42,16 +41,17 @@ Das ZDL-Regionalkorpus"
 * Proceedings elex 2023: https://elex.link/elex2023/proceedings-download/
 
 ## Themen für Referate/Hausarbeiten:
-**Vorbemerkung**: Die Referate sollten 25-30 Min (max) dauern; danach 15-20 Min. Fragen/Diskussion
+
+**Vorbemerkung**: Die Referate sollten 20 Min dauern; danach 10 Min. Fragen/Diskussion
 
 **[1]** Adam Kilgarriff, Miloš Husák, Katy McAdam, Michael Rundell and Pavel Rychlý (2008). GDEX: Automatically finding good dictionary examples in a corpus. In Proceedings of the 13th EURALEX International Congress. Spain, July 2008, pp. 425–432. (https://www.sketchengine.eu/wp-content/uploads/2015/05/GDEX_Automatically_finding_2008.pdf). Dazu auch die Konfigurations-Datei auf sketchengine.eu: https://www.sketchengine.eu/syntax-of-gdex-configuration-files/ bzw. Implementierung im DWDS-Kontext: https://github.com/ulf1/quaxa
 
 **[2]** Miloš Jakubíček, Michael Rundell: The end of lexicography: Can ChatGPT outperform current tools for post-editing lexicography?  (Proc. elex 2023: p 518-533)
 
-**[5]** Robert Lev, Sascha Wolfer. What lexical factors drive look-ups in Wiktionary (Proc. elex 2023)
+**[3]** Robert Lev, Sascha Wolfer. What lexical factors drive look-ups in Wiktionary (Proc. elex 2023)
  (https://journals.sagepub.com/doi/full/10.1177/21582440231219101 bzw. https://journals.sagepub.com/doi/epub/10.1177/21582440231219101)
 
- **[4]** Literatur: Leichte Sprache. DIN SPEC (https://www.dinmedia.de/de/technische-regel-entwurf/din-spec-33429/364785446)
+ **[10]** Literatur: Leichte Sprache. DIN SPEC (https://www.dinmedia.de/de/technische-regel-entwurf/din-spec-33429/364785446)
 
  ...
 
