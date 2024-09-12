@@ -17,7 +17,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 ## Tag 1 (12.9.2024): 
 * 10-12.30 Einführung (Lexikographie, e-Lexicography, DWDS-I)
 * 13.15-14 Praktische E-Lexikographie (DWDS - II)
-* 14-15.45 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL), DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines neuen DWDS-Wörterbuchartikels.
+* 14-15.45 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL), DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines neuen DWDS-Wörterbuchartikels: "öffentlicher Bücherschrank"
 * 15.45-16.00 Fragen zu Referaten
 
 ## Tag 2 (13.9.2024): per Zoom
@@ -28,7 +28,8 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 
 ## Tag 3 (19.9.2024):
 * 10-12.30 REFERATE
-* 13.15-15.45 (gemeinsam mit Andreas Nolda - BBAW/ZDL) Regionalkorpora und regionaler Wortschatz
+* 13.15-15.45 Andreas Nolda - BBAW/ZDL: "Daten zur diatopischen Variation im deutschen Wortschatz:
+Das ZDL-Regionalkorpus"
 
 ## Tag 4 (20.9.2024):
 * 10-11 Von Kollokationen zu Wortprofilen
