@@ -28,7 +28,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 
 ## Tag 3 (19.9.2024):
 * 10-12.30 REFERATE
-* 13.15-15.45 Dr. Andreas Nolda Regionaler Wortschatz und Regionalkorpora 
+* 13.15-15.45 (gemeinsam mit Andreas Nolda - BBAW/ZDL) Regionalkorpora und regionaler Wortschatz
 
 ## Tag 4 (20.9.2024):
 * 10-11 Von Kollokationen zu Wortprofilen
