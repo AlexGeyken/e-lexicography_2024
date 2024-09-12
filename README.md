@@ -34,7 +34,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 * 10-11 Von Kollokationen zu Wortprofilen
 * 11-12 REFERATE  
 * 13-14.30 REFERATE
-* 14.30-15.00 Abschlussdiskussion zu Leichte Sprache und der benoteten Prüfungsleistungen
+* 14.30-15.30 Abschlussdiskussion zu Leichte Sprache und der benoteten Prüfungsleistungen
 
 ## Weiterführende Quellen:
 * The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552. 
@@ -50,12 +50,14 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 
 **[3]** Robert Lev, Sascha Wolfer. What lexical factors drive look-ups in Wiktionary (Proc. elex 2023)
  (https://journals.sagepub.com/doi/full/10.1177/21582440231219101 bzw. https://journals.sagepub.com/doi/epub/10.1177/21582440231219101)
+....
+weitere Referatsthemen folgen.
 
  **[10]** Literatur: Leichte Sprache. DIN SPEC (https://www.dinmedia.de/de/technische-regel-entwurf/din-spec-33429/364785446)
 
  ...
 
-**[n]. Benotete Prüfungsleistung: Entwickle mit Hilfe von chatGPT ein Glossarmodul, welches ausgewählte Wörter in "Leichter Sprache" beschreibt  (benotete Prüfungsleistung)
+**[n]. Benotete Prüfungsleistung: Vorschlag: Entwickle mit Hilfe von Heuristiken (0-shot-prompting, few-shot-prompting, chain-of-thought) sowie einfachen RAG-Techniken auf der Basis der API von Open-AI einen Definitionsgenerierer, a) welcher möglichst in ihrer Qualität mit ausgewählten DWDS-Definitionen übereinstimmt, b) welcher ausgewählte Wörter in "Leichter Sprache" beschreibt. Ausführliche Beschreibung folgt. 
 
 
 
