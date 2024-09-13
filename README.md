@@ -16,7 +16,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 
 ## Tag 1 (12.9.2024): 
 * 10-12.30 Einführung: Kurzer geschichtlicher Abriss der Lexikographie seit dem 19. Jh. sowie der e-Lexicography im 21. Jh.
-* 13-14 Praktische E-Lexikographie: Die DWDS-Plattform - Wörterbuch, Korpus, Statistische Auswertungen)
+* 13-14 Praktische E-Lexikographie: Die DWDS-Plattform - Wörterbuch, Korpus, Statistische Auswertungen, s.a. https://www.dwds.de/d
 * 14-16 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines neuen DWDS-Wörterbuchartikels: *öffentlicher Bücherschrank* "
 
 
