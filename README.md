@@ -22,20 +22,21 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 
 ## Tag 2 (13.9.2024): 
 * ab 9.55 im Zoom-Raum:  ** https://us02web.zoom.us/j/89703237252?pwd=OWnrUmab9LOEFBmurK5Lmx3EN7MKZ1.1 **
-* 10-11.15 Mikrostruktur: Definitionen im Wörterbuch: a) Oxford (s. Atkins/Rundell); b) DWDS
+* 10-11.15 Mikrostruktur: Definitionen im Wörterbuch: a) Oxford (s. Atkins/Rundell); b) DWDS - Teil I, Templates
 * 11.15-13.15 Axel Herold (BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI Lex-0* sowie die DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter XML-Editor)
 * 14-15.30: (mit Gregor Middell - BBAW/ZDL) Technische Aspekte der lexikographische Arbeitsumgebung des DWDS / Vernetzungen von lexikalischen Informationen
 * 15.30-16: Vergabe Referate
 
 ## Tag 3 (19.9.2024):
-* 10-12.30 5 REFERATE
-* 13.15-15.45 Andreas Nolda - BBAW/ZDL: "Daten zur diatopischen Variation im deutschen Wortschatz: Das ZDL-Regionalkorpus"
+* 10.15-12.45 REFERATE (jeweils 20min. + 10min ) - Iushkovskaia Iuliia: Thema [1], Kiraz Kubilay: Thema [3], Benndorf Dietmar: Thema [4], Begichev Artur: Thema [5], Zakharova Anastasia: Thema [6]
+* 13.30-15.45 Andreas Nolda - BBAW/ZDL: "Daten zur diatopischen Variation im deutschen Wortschatz: Das ZDL-Regionalkorpus"
 
 ## Tag 4 (20.9.2024):
-* 10-11 Von Kollokationen zu Wortprofilen
-* 11-12 REFERATE  
-* 13-14.30 REFERATE
-* 14.30-15.30 Abschlussdiskussion zu Leichte Sprache und der benoteten Prüfungsleistungen
+* 10.15-10.45 Definitionen im DWDS, Teil II
+* 10.45-12.15 REFERATE  (jeweils 20min. + 10min ) - Opfer Jaimee: Thema [7], Csik Zoltan [8], Kaartti Ira [9] 
+* 13.00-14.30 REFERATE   (jeweils 20min. + 10min ) - Bechstädt Dana: Thema [10], Küster, Caroline: Thema [11]
+* 14.30-15.15 Leichte Sprache (Arbeiten der TU-Dresden)
+* 15.15-15.30 Abschlussdiskussion 
 
 ## Weiterführende Quellen:
 * The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552. 
