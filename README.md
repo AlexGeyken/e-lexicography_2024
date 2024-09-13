@@ -7,9 +7,9 @@ Das Blockseminar e-lexicography gibt einen Überblick über die Geschichte der L
 
 (2) Ab der 2. Hälfte des 20. Jh. änderten sich die Voraussetzungen. Mit dem für die damalige Zeit bahnbrechenden Trésor de la langue francaise (Tlf) wurde erstmals ein maschinell abfragbares Korpus erstellt, welches als Basis für die Wörterbucharbeit verwendet wurde. Die Erstellung der lexikographischen Basis erfolgte vielfach datenbankbasiert.
 
-(3) Ein kompletter Wandel der traditionellen Wörterbucharbeit wurde durch den "digital turn" ausgelöst. Dieser betraf (a) die Analyse der Wörterbuchartikel mit Hilfe von sehr großen digitalen Korpora anstelle der Belegarchive. Die 3. Auflage des OED konnte beispielsweise erst auf der Grundlage der großen digitalen Korpora konzipiert werden. (b) Mit diesem "digital turn" ging einher, dass Wörterbücher mittlerweile in klassischer Form kaum mehr publiziert werden, sondern lediglich als lexikalische Informationssysteme im Internet publiziert werden. 
+(3) Ein kompletter Wandel der traditionellen Wörterbucharbeit wurde durch den "digital turn" ausgelöst. Dieser betraf (a) die Analyse der Wörterbuchartikel mit Hilfe von sehr großen digitalen Korpora anstelle der Belegarchive. Die 3. Auflage des OED konnte beispielsweise erst auf der Grundlage der großen digitalen Korpora konzipiert werden. (b) Mit diesem "digital turn" ging einher, dass Wörterbücher mittlerweile in klassischer Form kaum mehr publiziert werden, sondern lediglich als lexikalische Informationssysteme im Internet zugänglich sind. 
 
-(4) Mit der Veröffentlichung von GPT3 von Open-AI Ende 2022 wird ein weiteres Kapitel für die Lexikographie geöffnet. Seitdem wurden eine Vielzahl weiterer Modelle von Google, Meta, aber auch in Europa von Mistral-AI oder auch Aleph Alpha erzeugt. Mit diesen mächtigen Modellen ist es erstmals möglich, Teile von Wörterbuchartikeln, teilweise sogar gesamte Wörterbuchartikel automatisch durch diese Systeme generieren zu lassen. Ausführliche Evaluierungen stehen noch aus, aber die Veröffentlichungen für die aktuelle EURALEX-Konferenz 2024 zeigt, wie sehr sich das Thema KI mittlerweile in der Lexikographie Einzug gehalten hat: knapp 15% aller Einreichungen behandeln Themen mit Bezug zu GPTs bzw. LLMs.
+(4) Mit der Veröffentlichung von GPT3 von Open-AI Ende 2022 wird ein weiteres Kapitel für die Lexikographie geöffnet. Seitdem wurden eine Vielzahl weiterer Modelle von Google, Meta, aber auch in Europa von Mistral-AI erzeugt. Mit diesen mächtigen Modellen ist es erstmals möglich, Teile von Wörterbuchartikeln, teilweise sogar gesamte Wörterbuchartikel automatisch durch diese Systeme generieren zu lassen. Ausführliche Evaluierungen stehen noch aus, aber die Veröffentlichungen für die aktuelle EURALEX-Konferenz 2024 im Oktober 2024 zeigt, wie sehr sich das Thema KI mittlerweile in der Lexikographie Einzug gehalten hat: knapp 15% aller Einreichungen behandeln Themen mit Bezug zu GPTs bzw. LLMs.
 
 Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr.
 Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder in Präsenz oder per Zoom (wird an Tag 3 entschieden)
@@ -71,7 +71,8 @@ International Journal of Lexicography, Volume 32, Issue 2, June 2019, Pages 119�
 
  ...
 
-** Benotete Prüfungsleistung ** - zusätzlich zu einem Referat eine Projektarbeit: -- Vorschlag: Entwickle mit Hilfe von Heuristiken (0-shot-prompting, few-shot-prompting, chain-of-thought) sowie einfachen RAG-Techniken auf der Basis der API von Open-AI einen Definitionsgenerierer, a) welcher möglichst in ihrer Qualität mit ausgewählten DWDS-Definitionen übereinstimmt, b) welcher ausgewählte Wörter in "Leichter Sprache" beschreibt. Ausführliche Beschreibung folgt. 
+**Benotete Prüfungsleistung** - zusätzlich zu einem Referat eine Projektarbeit: 
+-- Vorschlag: Entwickle mit Hilfe von Heuristiken (0-shot-prompting, few-shot-prompting, chain-of-thought) sowie einfachen RAG-Techniken auf der Basis der API von Open-AI einen Definitionsgenerierer, a) welcher möglichst in seiner Qualität mit ausgewählten DWDS-Definitionen übereinstimmt, b) welcher ausgewählte Wörter in "Leichter Sprache" beschreibt. Ausführliche Beschreibung folgt. 
 
 
 
