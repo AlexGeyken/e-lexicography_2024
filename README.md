@@ -45,20 +45,33 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 
 **Vorbemerkung**: Die Referate sollten 20 Min dauern; danach 10 Min. Fragen/Diskussion
 
-**[1]** Adam Kilgarriff, Miloš Husák, Katy McAdam, Michael Rundell and Pavel Rychlý (2008). GDEX: Automatically finding good dictionary examples in a corpus. In Proceedings of the 13th EURALEX International Congress. Spain, July 2008, pp. 425–432. (https://www.sketchengine.eu/wp-content/uploads/2015/05/GDEX_Automatically_finding_2008.pdf). Dazu auch die Konfigurations-Datei auf sketchengine.eu: https://www.sketchengine.eu/syntax-of-gdex-configuration-files/ bzw. Implementierung im DWDS-Kontext: https://github.com/ulf1/quaxa
+**[1]** Iztok Kosem, Kristina Koppel, Tanara Zingano Kuhn, Jan Michelfeit, Carole Tiberius. Identification and automatic extraction of good dictionary examples: the case(s) of GDEX
+International Journal of Lexicography, Volume 32, Issue 2, June 2019, Pages 119–137, https://doi.org/10.1093/ijl/ecy014Identification and automatic extraction of good dictionary examples: the case(s) of GDEX. Dazu auch die Konfigurations-Datei auf sketchengine.eu: https://www.sketchengine.eu/syntax-of-gdex-configuration-files/ bzw. Implementierung im DWDS-Kontext: https://github.com/ulf1/quaxa
 
-**[2]** Miloš Jakubíček, Michael Rundell: The end of lexicography: Can ChatGPT outperform current tools for post-editing lexicography?  (Proc. elex 2023: p 518-533)
+**[2]** René Knäbel, Franziska Nojack, Alexander Geyken: Typische Wortverbindungen – DWDS-Wortprofil in neuer Version https://www.dwds.de/b/dwds-wortprofil-in-neuer-version/ mit System-Demo. Dazu auch Hintergrundinformationen in: Didakowski, Jörg und Alexander Geyken (2014): From DWDS corpora to a German word proﬁle – methodological problems and solutions. In: OPAL – Online publizierte Arbeiten zur Linguistik 2/2014, S. 39–47. (https://zwei.dwds.de/dwds_static/publications/pdf/didakowski_geyken_internetlexikografie_2012_final.pdf)
 
-**[3]** Robert Lev, Sascha Wolfer. What lexical factors drive look-ups in Wiktionary (Proc. elex 2023)
+**[3]** Alexander Geyken A, Frank Wiegand und Kay-Michael Würzner, 2017. On-the-fly Generation of Dictionary Articles for the DWDS Website. In: Kosem I., Tiberius C., Jakubíček M., Kallas J., Krek S., Baisa V. (eds.), Electronic Lexicography in the 21st Century. Proceedings of eLex 2017 Conference, 19-21 September 2017, Leiden, Netherlands. Brno: Lexical Computing CZ s.r.o., 560–570. (https://elex.link/elex2017/wp-content/uploads/2017/09/paper34.pdf)
+
+**[4]** Robert Lev, Sascha Wolfer. What lexical factors drive look-ups in Wiktionary (Proc. elex 2023)
  (https://journals.sagepub.com/doi/full/10.1177/21582440231219101 bzw. https://journals.sagepub.com/doi/epub/10.1177/21582440231219101)
-....
-weitere Referatsthemen folgen.
 
- **[10]** Literatur: Leichte Sprache. DIN SPEC (https://www.dinmedia.de/de/technische-regel-entwurf/din-spec-33429/364785446)
+**[5]** Adrien Barbaresi, 2021. Trafilatura: A Web Scraping Library and Command-Line Tool for Text Discovery and Extraction. In: Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations, S. 122–131. (https://aclanthology.org/2021.acl-demo.15/)
+
+**[6]** Marek Blahuš, Michal Cukr, Ondřej Herman, Miloš Jakubíček, Vojtěch Kovář, Marek Medveď Semi-automatic building of large-scale digital dictionaries (Themenfeld: Post-Editing Lexicography); https://elex.link/elex2021/wp-content/uploads/2021/08/eLex_2021_23_pp396-407.pdf
+
+**[7]** Gilles-Maurice de Schryver: Generative AI and Lexicography: The Current State of the Art Using ChatGPT (https://academic.oup.com/ijl/article/36/4/355/7288213) 
+
+**[8]** Miloš Jakubíček, Michael Rundell: The end of lexicography: Can ChatGPT outperform current tools for post-editing lexicography?  (Proc. elex 2023: p 518-533)
+
+**[9]**  Wendalyn Nichols : Invisible lexicographers, AI, and the Future of the Dictionary. Keynote elex 2023: https://youtu.be/xYpwftj_QQI?si=l51mySXaVe08_V3y
+
+**[10]** Carole Tiberius: A Lexicographic Practice Map of Europe. International Journal of Lexicography, Volume 37, Issue 1, March 2024, Pages 1–28. https://academic.oup.com/ijl/article/37/1/1/7296021
+
+ **[11]** Literatur: Leichte Sprache. DIN SPEC (https://www.dinmedia.de/de/technische-regel-entwurf/din-spec-33429/364785446)
 
  ...
 
-**[n]. Benotete Prüfungsleistung: Vorschlag: Entwickle mit Hilfe von Heuristiken (0-shot-prompting, few-shot-prompting, chain-of-thought) sowie einfachen RAG-Techniken auf der Basis der API von Open-AI einen Definitionsgenerierer, a) welcher möglichst in ihrer Qualität mit ausgewählten DWDS-Definitionen übereinstimmt, b) welcher ausgewählte Wörter in "Leichter Sprache" beschreibt. Ausführliche Beschreibung folgt. 
+** Benotete Prüfungsleistung ** - zusätzlich zu einem Referat eine Projektarbeit: -- Vorschlag: Entwickle mit Hilfe von Heuristiken (0-shot-prompting, few-shot-prompting, chain-of-thought) sowie einfachen RAG-Techniken auf der Basis der API von Open-AI einen Definitionsgenerierer, a) welcher möglichst in ihrer Qualität mit ausgewählten DWDS-Definitionen übereinstimmt, b) welcher ausgewählte Wörter in "Leichter Sprache" beschreibt. Ausführliche Beschreibung folgt. 
 
 
 
