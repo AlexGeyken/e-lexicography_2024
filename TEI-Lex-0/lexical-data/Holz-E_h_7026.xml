@@ -1,0 +1,503 @@
+<DWDS xmlns="http://www.dwds.de/ns/1.0">
+    <Artikel Quelle="WDG" Status="Red-f" Typ="Vollartikel" Zeitstempel="1969-01-01" xml:id="E_h_7026" Erstellungsdatum="1969-01-01" Erstfassung="WDG" Tranche="Regio" Goethe-Zertifikat="B1">
+        <Formangabe Typ="Hauptform" Autor="DWDS" Quelle="DWDS" Zeitstempel="2012-03-17">
+            <Schreibung>Holz</Schreibung>
+            <Aussprache Quelle="DWDS" Zeitstempel="2020-03-25" IPA="hɔlʦ" Autor="brosch">002/das_Holz</Aussprache>
+            <Grammatik>
+                <Wortklasse>Substantiv</Wortklasse>
+                <Genus>neutr.</Genus>
+                <Genitiv>-es</Genitiv>
+                <Plural>Hölzer</Plural>
+                <Plural>-</Plural>
+            </Grammatik>
+            <Diasystematik/>
+        </Formangabe>
+        <Orthografie/><Verweise Zeitstempel="2019-06-19" Quelle="DWDS" Autor="herold" Typ="Simplex"/>
+        <Diachronie>
+            <Etymologie/>
+            <Formgeschichte/>
+            <Bedeutungsgeschichte/>
+        <Verweise><Verweis Typ="EtymWB"><Ziellemma>Holz</Ziellemma><Ziellesart/></Verweis></Verweise></Diachronie>
+        <Lesart n="1." xml:id="S_h_6048">
+            <Formangabe>
+                <Grammatik>
+                    <Numeruspraeferenz>nur im Singular</Numeruspraeferenz>
+                </Grammatik>
+                <Diasystematik/>
+            </Formangabe>
+            <Syntagmatik/>
+            <Diasystematik/>
+            <Verweise/>
+            <Definition Typ="Basis">einen wichtigen Baustoff bildendes, unter der Rinde liegendes Zellgewebe von Bäumen und Sträuchern mit harten, festen, verdickten Zellwänden, die besonders aus Zellulose und Lignin bestehen</Definition>
+            <Kollokationen/>
+            <Verwendungsbeispiele>
+                <Kompetenzbeispiel>
+                    <Belegtext>trockenes, nasses, feuchtes, morsches, faules, verfaultes, wurmstichiges, dürres, rissiges, kerniges, astfreies, gesundes, frisches, grünes, dichtes <Stichwort>Holz</Stichwort>
+                    </Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>anbrüchiges <Stichwort>Holz</Stichwort>
+                    </Belegtext>
+                    <Diasystematik>
+                        <Fachgebiet>Forstwesen</Fachgebiet>
+                    </Diasystematik>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>helles, dunkles, schön gemasertes, hartes <Stichwort>Holz</Stichwort>
+                    </Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>Linde, Weide und Pappel haben weiches <Stichwort>Holz</Stichwort>
+                    </Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>ein Regal aus rohem <Stichwort>Holz</Stichwort>
+                    </Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>gequollenes, geschnittenes, glattgehobeltes <Stichwort>Holz</Stichwort>
+                    </Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>
+                        <Stichwort>Holz</Stichwort> stapeln, lagern, verheizen, verbrennen</Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>
+                        <Stichwort>Holz</Stichwort>
+                        <Paraphrase>herumliegende Stücke Holz</Paraphrase> sammeln</Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>mit <Stichwort>Holz</Stichwort> feuern</Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>
+                        <Stichwort>Holz</Stichwort> fällen, einschlagen, aushauen</Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>
+                        <Stichwort>Holz</Stichwort> hacken, spalten, hauen, sägen</Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>
+                        <Stichwort>Holz</Stichwort> (klein)machen</Belegtext>
+                    <Diasystematik>
+                        <Stilebene>umgangssprachlich</Stilebene>
+                    </Diasystematik>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>
+                        <Stichwort>Holz</Stichwort> zu Balken, für einen Zaun schneiden</Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>
+                        <Stichwort>Holz</Stichwort> beizen, polieren, teeren, imprägnieren</Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>die Wände waren mit <Stichwort>Holz</Stichwort> getäfelt, verkleidet</Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>Buchstützen, eine Schale aus <Stichwort>Holz</Stichwort>
+                    </Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>ein Arm voll <Stichwort>Holz</Stichwort>
+                    </Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>ein Stück, Scheit <Stichwort>Holz</Stichwort>
+                    </Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>60 000 Festmeter <Stichwort>Holz</Stichwort> fielen dem Sturm zum Opfer</Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>in diesem Winter habe ich 2 Raummeter <Stichwort>Holz</Stichwort> verbraucht</Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>eine Ladung, Fuhre <Stichwort>Holz</Stichwort>
+                    </Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>bei den Johannisbeersträuchern muss das zu dicht stehende <Stichwort>Holz</Stichwort>
+                        <Paraphrase>müssen die zu dicht stehenden Äste</Paraphrase> entfernt werden</Belegtext>
+                </Kompetenzbeispiel>
+                <Beleg>
+                    <Belegtext><Autorenzusatz>…</Autorenzusatz> <Autorenzusatz>der Kirschbaum</Autorenzusatz> ist noch gut im <Stichwort>Holz</Stichwort> <Autorenzusatz>…</Autorenzusatz></Belegtext>
+                    <Fundstelle Fundort="WDG" Sigle="WAGKARDJD">
+                        <Autor>Waggerl</Autor>
+                        <Titel>Jahr</Titel>
+                        <Stelle>77</Stelle>
+                        <Datum/>
+                    </Fundstelle>
+                    </Beleg>
+                <Kompetenzbeispiel>
+                    <Belegtext>der Baum ist ins <Stichwort>Holz</Stichwort> geschossen
+<Paraphrase>hat viele Zweige bekommen, die keinen Blütenansatz haben</Paraphrase>
+                    </Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>zu feucht gelagertes <Stichwort>Holz</Stichwort> fault</Belegtext>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>ins <Stichwort>Holz</Stichwort> gehen
+<Paraphrase>in den Wald gehen, um Holz zu sammeln</Paraphrase>
+                    </Belegtext>
+                    <Diasystematik>
+                        <Sprachraum>landschaftlich</Sprachraum>
+                    </Diasystematik>
+                </Kompetenzbeispiel>
+                <Kompetenzbeispiel>
+                    <Belegtext>das <Stichwort>Holz</Stichwort> knackt</Belegtext>
+                </Kompetenzbeispiel>
+                <Beleg>
+                    <Belegtext>Das <Stichwort>Holz</Stichwort> ächzte und knisterte <Autorenzusatz>…</Autorenzusatz></Belegtext>
+                    <Fundstelle Fundort="WDG" Sigle="JAHHANDHO">
+                        <Autor>Jahnn</Autor>
+                        <Titel>Holzschiff</Titel>
+                        <Stelle>139</Stelle>
+                        <Datum/>
+                    </Fundstelle>
+                    </Beleg>
+                <Kompetenzbeispiel>
+                    <Belegtext>die Struktur, Maserung des <Stichwort>Holzes</Stichwort>
+                    </Belegtext>
+                </Kompetenzbeispiel>
+                <Beleg>
+                    <Belegtext><Autorenzusatz>…</Autorenzusatz> hierauf schnitzte man in <Stichwort>Holz</Stichwort>, ferner in Elfenbein und endlich machte man sich an Steine und Metalle <Autorenzusatz>…</Autorenzusatz></Belegtext>
+                    <Fundstelle Fundort="WDG" Sigle="WINJOHWER">
+                        <Autor>Winckelm.</Autor>
+                        <Titel/>
+                        <Stelle>3,21</Stelle>
+                        <Datum/>
+                    </Fundstelle>
+                    </Beleg>
+                <Beleg>
+                    <Belegtext>Und er schnitzte ihn <Autorenzusatz>den Bauern</Autorenzusatz> aus <Stichwort>Holz</Stichwort> <Autorenzusatz>…</Autorenzusatz></Belegtext>
+                    <Fundstelle Fundort="WDG" Sigle="BECJOHAUS">
+                        <Autor>Becher</Autor>
+                        <Titel/>
+                        <Stelle>3,73</Stelle>
+                        <Datum/>
+                    </Fundstelle>
+                    </Beleg>
+            </Verwendungsbeispiele>
+            <Lesart xml:id="S_h_6048_12" n="a)">
+                <Syntagmatik/>
+                <Diasystematik>
+                    <Bedeutungsebene>bildlich</Bedeutungsebene>
+                </Diasystematik>
+                <Verweise/>
+                <Definition Typ="Basis"/>
+                <Kollokationen/>
+                <Verwendungsbeispiele>
+                    <Kompetenzbeispiel>
+                        <Belegtext>
+                            <Stichwort>Holz</Stichwort> sägen <Paraphrase>laut
+                                schnarchen</Paraphrase>
+                        </Belegtext>
+                        <Diasystematik>
+                            <Sprachraum>landschaftlich</Sprachraum>
+                            <Stilebene>salopp</Stilebene>
+                        </Diasystematik>
+                    </Kompetenzbeispiel>
+                    <Kompetenzbeispiel>
+                        <Belegtext>er ist aus anderem <Stichwort>Holz</Stichwort> geschnitzt
+                                <Paraphrase>er hat eine andere Wesensart, ist anders
+                                beschaffen</Paraphrase>
+                        </Belegtext>
+                    </Kompetenzbeispiel>
+                    <Beleg>
+                        <Belegtext>Jedenfalls konnte mir nicht verborgen bleiben, daß ich aus
+                            edlerem Stoffe gebildet oder, wie man zu sagen pflegt, aus sfeinerem
+                                <Stichwort>Holz</Stichwort> geschnitzt war als meinesgleichen
+                                <Autorenzusatz>…</Autorenzusatz></Belegtext>
+                        <Fundstelle Fundort="WDG" Sigle="MANTHOGWE">
+                            <Autor>Th. Mann</Autor>
+                            <Titel>Krull</Titel>
+                            <Stelle>8,275</Stelle>
+                            <Datum/>
+                        </Fundstelle>
+                    </Beleg>
+                    <Beleg>
+                        <Belegtext>Zu meiner Zeit waren auch die Offiziere
+                                <Autorenzusatz>…</Autorenzusatz> aus einem härteren
+                                <Stichwort>Holz</Stichwort>
+                            <Autorenzusatz>…</Autorenzusatz></Belegtext>
+                        <Fundstelle Fundort="WDG" Sigle="ROTJOSRAD">
+                            <Autor>J. Roth</Autor>
+                            <Titel>Radetzkymarsch</Titel>
+                            <Stelle>134</Stelle>
+                            <Datum/>
+                        </Fundstelle>
+                    </Beleg>
+                </Verwendungsbeispiele>
+            </Lesart>
+            <Lesart xml:id="S_h_6048_13" n="b)">
+                <Formangabe>
+                    <Grammatik>
+                        <Plural>Hölzer</Plural>
+                        <Numeruspraeferenz>meist im Plural</Numeruspraeferenz>
+                    </Grammatik>
+                    <Diasystematik/>
+                </Formangabe>
+                <Syntagmatik/>
+                <Diasystematik/>
+                <Verweise/>
+                <Definition Typ="Basis">Holzart</Definition>
+                <Kollokationen/>
+                <Verwendungsbeispiele>
+                    <Kompetenzbeispiel>
+                        <Belegtext>edle <Stichwort>Hölzer</Stichwort>
+                        </Belegtext>
+                    </Kompetenzbeispiel>
+                    <Kompetenzbeispiel>
+                        <Belegtext>ausgesucht schöne <Stichwort>Hölzer</Stichwort> werden für diese
+                            Möbel verwendet</Belegtext>
+                    </Kompetenzbeispiel>
+                    <Beleg>
+                        <Belegtext>Ein sternförmiges Parkett aus hellen und dunklen
+                                <Stichwort>Hölzern</Stichwort> bildete den Fußboden
+                                <Autorenzusatz>…</Autorenzusatz></Belegtext>
+                        <Fundstelle Fundort="WDG" Sigle="KELBERTOT">
+                            <Autor>Kellerm.</Autor>
+                            <Titel>Totentanz</Titel>
+                            <Stelle>220</Stelle>
+                            <Datum/>
+                        </Fundstelle>
+                    </Beleg>
+                    <Kompetenzbeispiel>
+                        <Belegtext>Nussbaum ist ein schönes <Stichwort>Holz</Stichwort>
+                        </Belegtext>
+                    </Kompetenzbeispiel>
+                    <Kompetenzbeispiel>
+                        <Belegtext>jmdm. das <Stichwort>Hölzel</Stichwort> werfen <Paraphrase>jmdm.
+                                in einer bestimmten Situation das passende Stichwort
+                                geben</Paraphrase>
+                        </Belegtext>
+                        <Diasystematik>
+                            <Sprachraum>österreichisch</Sprachraum>
+                        </Diasystematik>
+                    </Kompetenzbeispiel>
+                    <Kompetenzbeispiel>
+                        <Belegtext>Dummheit und Stolz wachsen auf einem <Stichwort>Holz</Stichwort>
+                            <Paraphrase>ein Dummer ist oft auch eingebildet</Paraphrase>
+                        </Belegtext>
+                        <Diasystematik>
+                            <Bedeutungsebene>sprichwörtlich</Bedeutungsebene>
+                        </Diasystematik>
+                    </Kompetenzbeispiel>
+                </Verwendungsbeispiele>
+            </Lesart>
+        </Lesart>
+        <Lesart n="2." xml:id="S_h_6049">
+            <Syntagmatik/>
+            <Diasystematik/>
+            <Verweise/>
+            <Definition Typ="Generalisierung">Gegenstand aus <Verweis Typ="vgl">
+                    <Ziellemma>Holz</Ziellemma>
+                    <Ziellesart>1</Ziellesart>
+                </Verweis></Definition>
+            <Kollokationen/>
+            <Verwendungsbeispiele/>
+            <Lesart n="a)" xml:id="S_h_6050">
+                <Formangabe>
+                    <Grammatik>
+                        <Plural>Hölzer</Plural>
+                        <Numeruspraeferenz>nur im Plural</Numeruspraeferenz>
+                    </Grammatik>
+                    <Diasystematik/>
+                </Formangabe>
+                <Syntagmatik/>
+                <Diasystematik/>
+                <Verweise/>
+                <Definition Typ="Basis">für Bauzwecke und andere Zwecke zugeschnittene längere Teile
+                    aus <Verweis Typ="vgl">
+                        <Ziellemma>Holz</Ziellemma>
+                        <Ziellesart>1</Ziellesart>
+                    </Verweis></Definition>
+                <Kollokationen/>
+                <Verwendungsbeispiele>
+                    <Kompetenzbeispiel>
+                        <Belegtext>Schwellen, Maste, Telegrafenstangen und andere <Stichwort>Hölzer</Stichwort> müssen imprägniert werden</Belegtext>
+                    </Kompetenzbeispiel>
+                    <Kompetenzbeispiel>
+                        <Belegtext>runde, geschnittene <Stichwort>Hölzer</Stichwort>
+                        </Belegtext>
+                    </Kompetenzbeispiel>
+                    <Beleg>
+                        <Belegtext>Die schweren <Stichwort>Hölzer</Stichwort>, noch wie Stämme anzuschauen, keilten sich ineinander <Autorenzusatz>…</Autorenzusatz></Belegtext>
+                        <Fundstelle Fundort="WDG" Sigle="JAHHANDHO">
+                            <Autor>Jahnn</Autor>
+                            <Titel>Holzschiff</Titel>
+                            <Stelle>5</Stelle>
+                            <Datum/>
+                        </Fundstelle>
+                        </Beleg>
+                </Verwendungsbeispiele>
+            </Lesart>
+            <Lesart n="b)" xml:id="S_h_6051">
+                <Formangabe>
+                    <Grammatik>
+                        <Numeruspraeferenz>nur im Singular</Numeruspraeferenz>
+                    </Grammatik>
+                    <Diasystematik/>
+                </Formangabe>
+                <Syntagmatik/>
+                <Diasystematik>
+                    <Stilebene>umgangssprachlich</Stilebene>
+                </Diasystematik>
+                <Verweise/>
+                <Definition Typ="Basis">Gesamtheit der Holzblasinstrumente eines Orchesters</Definition>
+                <Kollokationen/>
+                <Verwendungsbeispiele>
+                    <Kompetenzbeispiel>
+                        <Belegtext>das <Stichwort>Holz</Stichwort> konnte sich gegen das Blech nicht behaupten</Belegtext>
+                    </Kompetenzbeispiel>
+                </Verwendungsbeispiele>
+            </Lesart>
+            <Lesart n="c)" xml:id="S_h_6052">
+                <Formangabe>
+                    <Grammatik>
+                        <Plural>Holz</Plural>
+                    </Grammatik>
+                    <Diasystematik/>
+                </Formangabe>
+                <Syntagmatik/>
+                <Diasystematik>
+                    <Fachgebiet>Kegeln</Fachgebiet>
+                </Diasystematik>
+                <Verweise/>
+                <Definition Typ="Basis">Kegel</Definition>
+                <Kollokationen/>
+                <Verwendungsbeispiele>
+                    <Kompetenzbeispiel>
+                        <Belegtext>er hat 8 <Stichwort>Holz</Stichwort> geworfen, geschoben</Belegtext>
+                    </Kompetenzbeispiel>
+                    <Kompetenzbeispiel>
+                        <Belegtext>den Titel sicherte sich <Autorenzusatz>Dativ</Autorenzusatz> die Mannschaft aus N mit 2 200 <Stichwort>Holz</Stichwort>
+                            <Paraphrase>Punkten</Paraphrase>
+                        </Belegtext>
+                    </Kompetenzbeispiel>
+                    <Kompetenzbeispiel>
+                        <Belegtext>Gut <Stichwort>Holz</Stichwort>!
+            <Paraphrase>Gruß der Kegler</Paraphrase>
+                        </Belegtext>
+                    </Kompetenzbeispiel>
+                </Verwendungsbeispiele>
+            </Lesart>
+        </Lesart>
+        <Lesart n="3." xml:id="S_h_6053">
+            <Formangabe>
+                <Grammatik>
+                    <Numeruspraeferenz>nur im Singular</Numeruspraeferenz>
+                </Grammatik>
+                <Diasystematik/>
+            </Formangabe>
+            <Syntagmatik/>
+            <Diasystematik>
+                <Sprachraum>landschaftlich</Sprachraum>
+            </Diasystematik>
+            <Verweise/>
+            <Definition Typ="Basis">kleiner Wald, Gehölz</Definition>
+            <Kollokationen/>
+            <Verwendungsbeispiele>
+                <Beleg>
+                    <Belegtext>Auf engen schattigen Waldpfaden geht's nun quer durch das <Stichwort>Holz</Stichwort> <Autorenzusatz>…</Autorenzusatz></Belegtext>
+                    <Fundstelle Fundort="WDG" Sigle="RAAWILSWE">
+                        <Autor>Raabe</Autor>
+                        <Titel>Sperlingsgasse</Titel>
+                        <Stelle>I 1,88</Stelle>
+                        <Datum/>
+                    </Fundstelle>
+                    </Beleg>
+                <Beleg>
+                    <Belegtext><Autorenzusatz>…</Autorenzusatz> ein Vorwerk, das an der Höhe mitten im <Stichwort>Holze</Stichwort> gar vertraulich lag <Autorenzusatz>…</Autorenzusatz></Belegtext>
+                    <Fundstelle Fundort="WDG" Sigle="GOEJOHPWE">
+                        <Autor>Goethe</Autor>
+                        <Titel>Wahlverwandtsch.</Titel>
+                        <Stelle>6,293</Stelle>
+                        <Datum/>
+                    </Fundstelle>
+                    </Beleg>
+                <Kompetenzbeispiel>
+                    <Belegtext>der Weg führte durch ein <Stichwort>Hölzchen</Stichwort>
+                    </Belegtext>
+                </Kompetenzbeispiel>
+            </Verwendungsbeispiele>
+            <Lesart xml:id="S_h_6053_10" n="*">
+                <Syntagmatik/>
+                <Diasystematik>
+                    <Gruppensprache>Jägersprache</Gruppensprache>
+                </Diasystematik>
+                <Verweise/>
+                <Definition Typ="Basis">Wald</Definition>
+                <Kollokationen/>
+                <Verwendungsbeispiele>
+                    <Kompetenzbeispiel>
+                        <Belegtext>der Jäger geht zu <Stichwort>Holze</Stichwort>
+                        </Belegtext>
+                    </Kompetenzbeispiel>
+                    <Beleg>
+                        <Belegtext>Wir wollen wieder zu <Stichwort>Holz</Stichwort> auf ein
+                            fröhliches Jagen heut <Autorenzusatz>…</Autorenzusatz></Belegtext>
+                        <Fundstelle Fundort="WDG" Sigle="HAUGERADR">
+                            <Autor>G. Hauptm.</Autor>
+                            <Titel>Schluck u. Jau</Titel>
+                            <Stelle>VI</Stelle>
+                            <Datum/>
+                        </Fundstelle>
+                    </Beleg>
+                    <Kompetenzbeispiel>
+                        <Belegtext>das Wild zieht zu <Stichwort>Holze</Stichwort>
+                            <Paraphrase>zieht von Feldern, Wiesen zurück in den Wald</Paraphrase>
+                        </Belegtext>
+                    </Kompetenzbeispiel>
+                </Verwendungsbeispiele>
+            </Lesart>
+        </Lesart>
+    <Rohdaten>
+  <Verwendungsbeispiele>
+    <Beleg>
+      <Belegtext>Die Decke aus <Stichwort>Holz</Stichwort>, die darüber gelegt ist, wiegt leicht.</Belegtext>
+      <Fundstelle Fundort="dwds:kernbasis">Gudenrath, Eduard: Geist und Gestalt in der Baukunst, Berlin: Oestergaard 1929, S. 21</Fundstelle>
+    </Beleg>
+    <Beleg>
+      <Belegtext>In gleichmäßigem Abstand hörte ich ein Stoßen, <Stichwort>Holz</Stichwort> auf Holz.</Belegtext>
+      <Fundstelle Fundort="dwds:kernbasis">Franck, Julia: Lagerfeuer, Köln: DuMont Literatur und Kunst Verlag 2003, S. 37</Fundstelle>
+    </Beleg>
+    <Beleg>
+      <Belegtext>Es ist noch gar nicht lange her, da schleppte er <Stichwort>Holz</Stichwort>.</Belegtext>
+      <Fundstelle Fundort="dwds:kernbasis">Auerbach, Erich: Mimesis, Bern: Francke 1959 [1946], S. 22</Fundstelle>
+    </Beleg>
+    <Beleg>
+      <Belegtext>Seit 1907 entstanden auch Plastiken, seit 1913 v.a. in <Stichwort>Holz</Stichwort>.</Belegtext>
+      <Fundstelle Fundort="dwds:kernbasis">o. A.: Lexikon der Kunst – P. In: Olbrich, Harald (Hg.), Lexikon der Kunst, Berlin: Directmedia Publ. 2001 [1993], S. 18587</Fundstelle>
+    </Beleg>
+    <Beleg>
+      <Belegtext>Da ist der Reis aus anderem <Stichwort>Holz</Stichwort> geschnitzt, wenn dieses schiefe Bild einmal gestattet ist.</Belegtext>
+      <Fundstelle Fundort="dwds:kernbasis">Die Zeit, 22.07.1999, Nr. 30</Fundstelle>
+    </Beleg>
+    <Beleg>
+      <Belegtext>Dies ist der Raum, in dem jeder nach Kräften versuchen kann, das krumme <Stichwort>Holz</Stichwort> zum aufrechten Gang zurechtzubiegen.</Belegtext>
+      <Fundstelle Fundort="dwds:kernbasis">Die Zeit, 24.09.1998, Nr. 40</Fundstelle>
+    </Beleg>
+    <Beleg>
+      <Belegtext>In gleichmäßigem Abstand hörte ich ein Stoßen, Holz auf <Stichwort>Holz</Stichwort>.</Belegtext>
+      <Fundstelle Fundort="dwds:kernbasis">Franck, Julia: Lagerfeuer, Köln: DuMont Literatur und Kunst Verlag 2003, S. 37</Fundstelle>
+    </Beleg>
+    <Beleg>
+      <Belegtext>An den mit feinstem <Stichwort>Holz</Stichwort> verkleideten Wänden hängen richtige Gemälde.</Belegtext>
+      <Fundstelle Fundort="dwds:kernbasis">Lebert, Benjamin: Crazy, Köln: Kiepenheuer &amp; Witsch 1999 [1999], S. 2</Fundstelle>
+    </Beleg>
+    <Beleg>
+      <Belegtext>Heute wachsen jährlich nur 25 Mill. fm <Stichwort>Holz</Stichwort> zu, gegenüber 40 Mill. fm früher.</Belegtext>
+      <Fundstelle Fundort="dwds:kernbasis">o. A.: 1947. In: Overresch, Manfred u. Saal, Friedrich Wilhelm (Hgg.) Deutsche Geschichte von Tag zu Tag 1918-1949, Berlin: Directmedia Publ. 2000 [1986], S. 19378</Fundstelle>
+    </Beleg>
+    <Beleg>
+      <Belegtext>Bei der Holzproduktion war das Generalgouvernement einige Monate überhaupt die einzige Möglichkeit, für die schwer nach <Stichwort>Holz</Stichwort> rufende deutsche Industrie eine Hilfsstellung einnehmen zu können.</Belegtext>
+      <Fundstelle Fundort="dwds:kernbasis">o. A.: Staatsakt zum Jahrestag der Gründung des Generalgouvernements, 26.10.1940</Fundstelle>
+    </Beleg>
+  </Verwendungsbeispiele>
+</Rohdaten></Artikel>
+</DWDS>
