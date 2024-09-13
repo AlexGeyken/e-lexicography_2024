@@ -35,7 +35,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 * 10.15-10.45 Definitionen im DWDS, Teil II
 * 10.45-12.15 REFERATE  (jeweils 20min. + 10min ) - Opfer Jaimee: Thema **[7]**, Csik Zoltan **[8]**, Kaartti Ira **[9]** 
 * 13.00-14.30 REFERATE   (jeweils 20min. + 10min ) - Bechstädt Dana: Thema **[10]**, Küster, Caroline: Thema **[11]**
-* 14.30-15.15 Leichte Sprache (Arbeiten der TU-Dresden)
+* 14.30-15.15 Glossare zur Leichten Sprache (Arbeiten der TU-Dresden)
 * 15.15-15.30 Abschlussdiskussion 
 
 ## Weiterführende Quellen:
