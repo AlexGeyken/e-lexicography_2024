@@ -17,7 +17,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 ## Tag 1 (12.9.2024): 
 * 10-12.30 Einführung: Kurzer geschichtlicher Abriss der Lexikographie seit dem 19. Jh. sowie der e-Lexicography im 21. Jh.
 * 13-14 Praktische E-Lexikographie: Die DWDS-Plattform - Wörterbuch, Korpus, Statistische Auswertungen, s.a. https://www.dwds.de/d
-* 14-16 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines neuen DWDS-Wörterbuchartikels: *öffentlicher Bücherschrank* "
+* 14-16 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines neuen DWDS-Wörterbuchartikels: *öffentlicher Bücherschrank* 
 
 
 ## Tag 2 (13.9.2024): 
@@ -34,9 +34,9 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 ## Tag 4 (20.9.2024):
 * 10.15-10.45 Definitionen im DWDS, Teil II
 * 10.45-12.15 REFERATE  (jeweils 20min. + 10min ) - Opfer Jaimee: Thema **[7]**, Csik Zoltan **[8]**, Kaartti Ira **[9]** 
-* 13.00-14.30 REFERATE   (jeweils 20min. + 10min ) - Bechstädt Dana: Thema **[10]**, Küster, Caroline: Thema **[11]**
-* 14.30-15.15 Glossare zur Leichten Sprache (Arbeiten der TU-Dresden)
-* 15.15-15.30 Abschlussdiskussion 
+* 13.00-14.00 REFERATE   (jeweils 20min. + 10min ) - Bechstädt Dana: Thema **[10]**, Küster, Caroline: Thema **[11]**
+* 14.15-15.00 Übungen zum Vortrag Nolda
+* 15.00-15.15 Abschlussdiskussion
 
 ## Weiterführende Quellen:
 * The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552. 
