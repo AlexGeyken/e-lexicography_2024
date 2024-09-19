@@ -1,7 +1,7 @@
 # e-lexicography_2024
 
 ## Vorbemerkung: 
-Das Blockseminar e-lexicography gibt einen Überblick über die Geschichte der Lexikographie vom 19. Jh. bis heute, insbesondere mit Blick auf die technischen Entwicklungen.
+Das Blockseminar e-lexicography gibt einen Überblick über die Geschichte der Lexikographie vom 19. Jh. bis heute. Der Schwerpunkt wird dabei auf die gegenwärtigen technischen Entwicklungen auf dem Gebiet der e-lexicography gelegt.
 
 (1) Das 19. Jh. ist das Zeitalter der "Großwörterbücher". Die Kultursprachen der Welt beginnen mit der "Vermessung der Sprache", sammeln Belege für Bedeutungen von Wörtern und verfassen auf dieser Basis große historische Wörterbücher. Aus dieser Zeit stammen das Oxford English Dictionary und das Grimmsche Wörterbuch.
 
