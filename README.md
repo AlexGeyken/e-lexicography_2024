@@ -28,13 +28,13 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 * 15.30-16: Vergabe Referate
 
 ## Tag 3 (19.9.2024):
-* 10.15-12.45 REFERATE (jeweils 20min. + 10min ) - Iushkovskaia Iuliia: Thema **[1]**, Kiraz Kubilay: Thema **[3]**, Benndorf Dietmar: Thema **[4]**, Begichev Artur: Thema **[5]**, Zakharova Anastasia: Thema **[6]**
+* 10.15-12.45 REFERATE (jeweils 20min. + 10min ) - Opfer Jaimee: Thema **[7]**, Kiraz Kubilay: Thema **[3]**, Benndorf Dietmar: Thema **[4]**, Begichev Artur: Thema **[5]**, Zakharova Anastasia: Thema **[6]**
 * 13.30-15.45 Andreas Nolda - BBAW/ZDL: "Daten zur diatopischen Variation im deutschen Wortschatz: Das ZDL-Regionalkorpus"
 
 ## Tag 4 (20.9.2024):
 * ab 10.10 im Zoom-Raum: ** https://us02web.zoom.us/j/86929448926?pwd=E3GRPatq9tjMbWy7zZWQ7WHjR1gSvy.1 **
 * 10.15-10.45 Definitionen im DWDS, Teil II
-* 10.45-12.15 REFERATE  (jeweils 20min. + 10min ) - Opfer Jaimee: Thema **[7]**, Csik Zoltan **[8]**, Kaartti Ira **[9]** 
+* 10.45-12.15 REFERATE  (jeweils 20min. + 10min ) - Iushkovskaia Iuliia: Thema **[1]**, Csik Zoltan **[8]**, Kaartti Ira **[9]** 
 * 13.00-14.00 REFERATE   (jeweils 20min. + 10min ) - Bechstädt Dana: Thema **[10]**, Küster, Caroline: Thema **[11]**
 * 14.15-15.00 Übungen zum Vortrag Nolda
 * 15.00-15.15 Aufgaben für benotete Leistungen
