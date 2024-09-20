@@ -36,8 +36,8 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 * 10.15-10.45 Definitionen im DWDS, Teil II
 * 10.45-12.15 REFERATE  (jeweils 20min. + 10min ) - Iushkovskaia Iuliia: Thema **[1]**, Csik Zoltan **[8]**, Kaartti Ira **[9]** 
 * 13.00-14.00 REFERATE   (jeweils 20min. + 10min ) - Bechstädt Dana: Thema **[10]**, Küster, Caroline: Thema **[11]**
-* 14.15-15.00 Übungen zum Vortrag Nolda
-* 15.00-15.15 Aufgaben für benotete Leistungen
+* 14.00-14.15 Vorbesprechung - Aufgaben für benotete Leistungen
+* 14.30-15.30 Übungen zum Vortrag Nolda, s. letzte Folie Nolda im g-drive. Dort eine Aufgabe bearbeiteten, auf 1-2 Seiten als Bericht - Bericht an mich per Mail)
 
 ## Weiterführende Quellen:
 * The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552. 
